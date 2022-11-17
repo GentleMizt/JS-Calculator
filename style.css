@@ -3,6 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
-main div h2{
+html{
+    font-size: 10px;
+}
+main div h2, main .timers{
     text-align: center;
+    font-size: 4rem;
+    margin: 2rem 0;
 }
